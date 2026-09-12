@@ -23,10 +23,10 @@
 - Dataset com mais de **5.000 pedidos** e sem valores nulos e duplicados. 
 - **Eletronics** é a categoria que há mais vendas com **1.777 pedidos**
 - Produto mais caro: **Electonics** com preço de **$599,96**
-- Produto mais bararto: **Clothing** com preço de **15,15**
+- Produto mais barato: **Clothing** com preço de **15,15**
 - Receita Total: **$5,109,775.74**
 - Média de entregas: **6.12** dias úteis
-- Avalaiação média de clientes é de **2.97** de 5.0
+- Avaliação média de clientes é de **2.97** de 5.0
 - Desconto média aplicado: **17.99**%
 
 

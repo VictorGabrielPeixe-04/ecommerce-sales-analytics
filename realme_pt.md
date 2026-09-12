@@ -34,39 +34,39 @@
 
 - Valores únicos por coluna numérica
 
-![alt text](analisys%20e-commerce/imgs/image-11.png)
+![Unique Values](/analisys-e-commerce/imgs/unique_values.png)
 
 - Métodos de pagamentos
 
-![alt text](analisys%20e-commerce/imgs/image-12.png)
+![Payment Methods](analisys-e-commerce/imgs/payment_methods.png)
 
 - Vendas por Região
 
-![alt text](analisys%20e-commerce/imgs/image-2.png)
+![Sales by Region](analisys-e-commerce/imgs/region.png)
 
 - Total de vendas por categoria de produto
 
-![alt text](analisys%20e-commerce/imgs/image-3.png)
+![Product Category](analisys-e-commerce/imgs/product_category.png)
 
 - Distribuição dos dias de entrega
 
-![alt text](analisys%20e-commerce/imgs/image-4.png)
+![Delivery Days](analisys-e-commerce/imgs/delivery_days.png)
 
 - Avaliação por cliente
 
-![alt text](analisys%20e-commerce/imgs/image-7.png)
+![Customer Rating](analisys-e-commerce/imgs/customer_rating.png)
 
 - Histórico de desconto
 
-![alt text](analisys%20e-commerce/imgs/image-6.png)
+![Discount](analisys-e-commerce/imgs/discount.png)
 
 - Total de receita por categoria
 
-![alt text](analisys%20e-commerce/imgs/image-8.png)
+![Revenue](analisys-e-commerce/imgs/revenue.png)
 
 - Preços únicos
 
-![alt text](analisys%20e-commerce/imgs/image-9.png)
+![Unit Price](analisys-e-commerce/imgs/unit_price.png)
 
 - Distribuição de preços por faixa
 
@@ -74,7 +74,7 @@
     - Medium: $200-400
     - Low:$0-200
 
-![alt text](analisys%20e-commerce/imgs/image-13.png)
+![Price Distribution](analisys-e-commerce/imgs/price_distribution.png)
 
 
 

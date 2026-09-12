@@ -26,46 +26,47 @@ Exploratory data analysis of e-commerce sales with 5,000 orders placed between 2
 
 - Unique values per numeric column
 
-![alt text](analisys%20e-commerce/imgs/image-11.png)
+![Unique Values](/analisys-e-commerce/imgs/unique_values.png)
 
 - Payment methods
 
-![alt text](analisys%20e-commerce/imgs/image-12.png)
+![Payment Methods](analisys-e-commerce/imgs/payment_methods.png)
+
 
 - Sales by region
 
-![alt text](analisys%20e-commerce/imgs/image-2.png)
+![Sales by Region](analisys-e-commerce/imgs/region.png)
 
 - Total sales by product category
 
-![alt text](analisys%20e-commerce/imgs/image-3.png)
+![Product Category](analisys-e-commerce/imgs/product_category.png)
 
 - Distribution of delivery days
 
-![Delivery Days](analisys%20e-commerce/imgs/image-4.png)
+![Delivery Days](analisys-e-commerce/imgs/delivery_days.png)
 
 - Customer rating
 
-![Customer Rating](analisys%20e-commerce/imgs/image-7.png)
+![Customer Rating](analisys-e-commerce/imgs/customer_rating.png)
 
 - Discount history
 
-![Discount](analisys%20e-commerce/imgs/image-6.png)
+![Discount](analisys-e-commerce/imgs/discount.png)
 
 - Total revenue by category
 
-![Revenue](analisys%20e-commerce/imgs/image-8.png)
+![Revenue](analisys-e-commerce/imgs/revenue.png)
 
 - Unique prices
 
-![Unique Prices](analisys%20e-commerce/imgs/image-9.png)
+![Unit Price](analisys-e-commerce/imgs/unit_price.png)
 
 - Price distribution by range
   - High: $400 - $600
   - Medium: $200 - $400
   - Low: $0 - $200
 
-![Price Distribution](analisys%20e-commerce/imgs/image-13.png)
+![Price Distribution](analisys-e-commerce/imgs/price_distribution.png)
 
 ## 🛠️ Technologies
 - Python

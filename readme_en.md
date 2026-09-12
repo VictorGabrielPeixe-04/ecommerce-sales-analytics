@@ -75,7 +75,7 @@ Exploratory data analysis of e-commerce sales with 5,000 orders placed between 2
 - Matplotlib
 
 ## 👨‍💻 Author
-Victor Gabriel Peixe
+👨 Victor Gabriel Peixe
 
 💼 LinkedIn: https://www.linkedin.com/in/victorgabrielpeixe/
 

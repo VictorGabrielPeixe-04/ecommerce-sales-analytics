@@ -91,4 +91,4 @@
 
 💼 Linkedin: https://www.linkedin.com/in/victorgabrielpeixe/
 
-📧 E-mail: victorgabrielpeixe04@gmail.com
+📧 E-mail: victorgabrielpeixe2002@gmail.com

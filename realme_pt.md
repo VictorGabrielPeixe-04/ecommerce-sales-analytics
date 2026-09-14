@@ -15,7 +15,7 @@
 - Análise de distribuição 
 - Filtros e seleções
 - Análise com Numpy
-- Visualização com Matplotilib
+- Visualização com Matplotlib
 
 
 ## Principais Descobertas
@@ -71,8 +71,8 @@
 - Distribuição de preços por faixa
 
     - High: $400 - 600
-    - Medium: $200-400
-    - Low:$0-200
+    - Medium: $200  400
+    - Low:$0 - 200
 
 ![Price Distribution](analisys-e-commerce/imgs/price_distribution.png)
 
